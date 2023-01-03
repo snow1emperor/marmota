@@ -22,7 +22,7 @@ import (
 	"bufio"
 	"io"
 
-	"github.com/teamgram/marmota/pkg/net2"
+	"github.com/snow1emperor/marmota/pkg/net2"
 )
 
 func init() {

@@ -26,8 +26,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/teamgram/marmota/pkg/net2"
-	"github.com/teamgram/marmota/pkg/net2/codec"
+	"github.com/snow1emperor/marmota/pkg/net2"
+	"github.com/snow1emperor/marmota/pkg/net2/codec"
 	log "github.com/zeromicro/go-zero/core/logx"
 )
 

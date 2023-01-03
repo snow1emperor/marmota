@@ -1,4 +1,4 @@
-module github.com/teamgram/marmota
+module github.com/snow1emperor/marmota
 
 go 1.17
 

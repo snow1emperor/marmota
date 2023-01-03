@@ -23,7 +23,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/teamgram/marmota/pkg/stores/sqlx/reflectx"
+	"github.com/snow1emperor/marmota/pkg/stores/sqlx/reflectx"
 )
 
 // Although the NameMapper is convenient, in practice it should not

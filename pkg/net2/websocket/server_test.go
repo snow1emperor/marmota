@@ -9,7 +9,7 @@ import (
 
 	"golang.org/x/net/websocket"
 
-	"github.com/teamgram/marmota/pkg/random2"
+	"github.com/snow1emperor/marmota/pkg/random2"
 )
 
 func TestServer(t *testing.T) {

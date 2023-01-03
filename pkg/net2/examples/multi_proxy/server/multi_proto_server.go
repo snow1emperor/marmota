@@ -21,7 +21,7 @@ package server
 import (
 	"net"
 
-	"github.com/teamgram/marmota/pkg/net2"
+	"github.com/snow1emperor/marmota/pkg/net2"
 	log "github.com/zeromicro/go-zero/core/logx"
 )
 

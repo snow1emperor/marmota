@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/teamgram/marmota/pkg/sync2"
+	"github.com/snow1emperor/marmota/pkg/sync2"
 )
 
 func init() {

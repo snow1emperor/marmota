@@ -22,7 +22,7 @@ import (
 	"io"
 	"net"
 
-	"github.com/teamgram/marmota/pkg/net2"
+	"github.com/snow1emperor/marmota/pkg/net2"
 	"github.com/zeromicro/go-zero/core/logx"
 )
 
@@ -87,7 +87,7 @@ func (c *PingpongCodec) Context() interface{} {
 }
 
 // PingpongServer
-/////////////////////////////////////////////////////////////////////////////////////////
+// ///////////////////////////////////////////////////////////////////////////////////////
 type PingpongServer struct {
 	server *net2.TcpServer
 }
@@ -116,7 +116,7 @@ func (s *PingpongServer) OnConnectionClosed(conn *net2.TcpConnection) {
 	logx.Info("OnConnectionClosed - %v", conn.RemoteAddr())
 }
 
-/////////////////////////////////////////////////////////////////////////////////////////
+// ///////////////////////////////////////////////////////////////////////////////////////
 type PingpongInsance struct {
 	server *PingpongServer
 }

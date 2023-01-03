@@ -19,7 +19,7 @@
 package main
 
 import (
-	"github.com/teamgram/marmota/pkg/net2/examples/multi_proxy/server"
+	"github.com/snow1emperor/marmota/pkg/net2/examples/multi_proxy/server"
 )
 
 func main() {

@@ -26,7 +26,7 @@ import (
 	"runtime/debug"
 	"time"
 
-	"github.com/teamgram/marmota/pkg/net2/websocket"
+	"github.com/snow1emperor/marmota/pkg/net2/websocket"
 	log "github.com/zeromicro/go-zero/core/logx"
 )
 

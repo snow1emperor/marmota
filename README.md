@@ -1,6 +1,6 @@
 # marmota
 
-Common packages used by teamgram.
+Common packages.
 
 
 
